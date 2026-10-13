@@ -6,3 +6,13 @@
 - `ai-integration-video.mp4`: הסרטון "שילוב AI באלקטרוניקה"
 - `Cognitive_Electronics_Architecture.pptx`: המצגת המקורית
 - `slides/`: שקפי המצגת כתמונות, בשביל הדף
+
+## הדור הבא של מגמת האלקטרוניקה
+
+מנחה ומוביל ההשתלמות: מיחלייה עבד אלמגיד
+
+- `next-gen-electronics.html`: דף עם הסרטון, ההקלטה והמצגת
+- `computer-vision-video.mp4`: הסרטון "ראייה ממוחשבת באלקטרוניקה"
+- `perfect-code-audio.m4a`: ההקלטה "למה קוד מושלם נכשל בעולם הפיזי"
+- `Next-Gen_Cyber-Physical_Electronics.pptx`: המצגת המקורית
+- `next-gen-slides/`: שקפי המצגת כתמונות, בשביל הדף
